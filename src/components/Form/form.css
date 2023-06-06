@@ -1,0 +1,11 @@
+input{
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+form{
+    text-align: center;
+    margin-top: 10%;
+    border: 2px solid ;
+    box-sizing: border-box;
+    border-radius: 2%;
+}
